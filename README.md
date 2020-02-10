@@ -1,4 +1,4 @@
 # readme.md
 
-**Name**:  
-**USF email address**:  
+**Name**:  Ashwini Sunil Badgujar
+**USF email address**:  abadgujar@dons.usfca.edu
